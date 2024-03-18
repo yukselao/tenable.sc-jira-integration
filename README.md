@@ -3,6 +3,11 @@
 
 ## Jira Integration Gereksinimleri
 
+Erişim Testleri:
+- Erişim testleri için Postman aracından fayda sağlamanız önerilir.
+
+
+
 Erişim Bilgileri:
 - URL
 - Project Name
